@@ -10,5 +10,3 @@ groceries = {
 def get_the_keys(groceries)
 groceries.keys
 end
-
-puts get_the_keys(groceries)
